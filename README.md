@@ -1,5 +1,7 @@
 # Laboratorio-Nro.-7-Jose-Pilaguano-
 
+![image](https://user-images.githubusercontent.com/116677175/218152214-bb989f10-50c6-410d-862c-6cc587689e13.png)
+
 CARRION SAID
 
 MACIAS HENRY

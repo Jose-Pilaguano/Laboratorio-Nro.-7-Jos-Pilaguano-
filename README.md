@@ -114,15 +114,39 @@ Para la multiplicación se debe realizar la propiedad distributiva en cada uno d
 
 Para la división es preferible transformar a forma polar y seguido dividir la magnitud del numerador entre la magnitud del denominador para obtener la magnitud del cocient, restar a continuación el ángulo del denominador del numerador para obtener el ángulo del cociente.
 
-5.- Video link https://youtu.be/MzZXFpcdnoo
+5.- Respuesta a las interrogantes planteadas.
 
-6.- Conclusiones
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+Como un cable que interrumpe el flujo de corriente. Por otro lado, el capacitor se comporta como un circuito cerrado, es decir, como un cable que permite el flujo de corriente. Por lo tanto, en corriente continua, un capacitor se carga y mantiene su carga, mientras que una bobina no tiene corriente que fluya a través de ella.
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+Capacitores en CA En este caso, sucede todo lo contrario: EL CONDENSADOR DEJA PASAR CORRIENTE, Y TAMBIEN ESTA LA PRESENCIA DE VOLTAJE, todo debido al efecto que tiene la corriente alterna en el elemento. Los condensadores se utilizan en la práctica para “Adelantar corriente y atrasar voltaje”, dependiendo para así mejorar el factor de potencia
+
+Boninas en CA Cuando las bobinas son sometidas a corriente con frecuencia (A.C.), cumplen su función de inductancia, con esto ADEMAS DE POSEER CORRIENTE ESTA LA PRESENCIA DE VOLTAJE, debido al efecto de frecuencia. Las bobinas se utilizan en la práctica para “Adelantar voltaje y retrasar corriente” dependiendo de cómo se utiliza para mejorar el factor de potencia
+
+3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+El voltaje y amperaje va a variar sea en incremento o decremento de acuerdo al valor de capacitancia/inductancia de cada componente ya que estos conservan su resistencia individual y por ende esta puede ser calculada en paralelo para encontrar el valor generado en la resistencia de 100ohm
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Los valores eficaces de voltaje y corriente son los valores equivalentes de voltaje y corriente de una señal de corriente alterna (AC) que producirían la misma potencia que la señal original en un circuito resistivo.
+
+En el caso de la corriente alterna senoidal, el valor eficaz se define como la raíz cuadrada de la media cuadrática de los valores instantáneos de la corriente en un ciclo completo. El valor eficaz de una señal de corriente alterna es el valor RMS (Root Mean Square) de la señal y se expresa en unidades de amperios (A).
+
+De manera similar, el valor eficaz del voltaje es el valor RMS de la señal de voltaje y se expresa en unidades de voltios (V). El valor eficaz es importante porque indica el nivel de potencia real que puede suministrar o disipar una señal de corriente alterna en un circuito resistivo y es el valor que se utiliza en la mayoría de los cálculos de circuitos AC.
+
+6.- Video link https://youtu.be/MzZXFpcdnoo
+
+7.- Conclusiones
 
 En conclusión, para la facilidad de distinguir entre polar y rectangular se da una escritura diferente para cada segmento, nos referimos con ángulos para los datos y valores rectangulares y con la variable de números complejos para los datos y valores de polares.
 
 Al implementar la calculadora online, observamos que los valores tanto calculados por el sistema y por nosotros no arrojaban un error más allá de 0.10%. Pero deducimos que por la calculadora online podíamos obtener los valores directamente.
 
-7.- Bibliografía
+8.- Bibliografía
 
 Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
 
